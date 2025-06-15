@@ -1,4 +1,10 @@
 body {
+  padding: 0 16px;
+}
+
+
+
+body {
     background-color: #e0f7fa;
     padding-top: 60px;
     font-family: Arial, Helvetica, sans-serif;
