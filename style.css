@@ -124,3 +124,11 @@ main p {
 #contact p {
   font-style: italic;
 }
+
+nav {
+  padding: 15px 20px;
+}
+nav a {
+  margin: 0 10px;
+  padding: 8px 5px;
+}
