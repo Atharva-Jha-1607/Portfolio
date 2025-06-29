@@ -1,4 +1,5 @@
 ✅ Skills Used
+
 HTML5 – for structuring web pages
 
 CSS3 – for styling layout, colors, fonts, and animations
@@ -16,6 +17,7 @@ Design Thinking – organizing sections like About, Projects, and Contact
 Custom Fonts & Font Pairing – for visual appeal
 
 📘 What I Learned
+
 How to create a fully functional static website using HTML and CSS
 
 How to structure a portfolio with sections like About, Skills, Projects, and Contact
